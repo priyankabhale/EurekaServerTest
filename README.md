@@ -1,0 +1,2 @@
+# EurekaServerTest
+Service discovery test
